@@ -1,5 +1,6 @@
-### Dr TIBA Redha
+### Dr TIBA Redha  
 ## PISP
+## How to design your Github profile
 
 
 <img src="tiba.jpg" style="width:800px;height:300px;">
